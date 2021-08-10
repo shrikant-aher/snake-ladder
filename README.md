@@ -11,6 +11,6 @@
 ```python
 ## Usage
 
-python3 task.py
+python3 src/assignment/task.py
 
 ```
